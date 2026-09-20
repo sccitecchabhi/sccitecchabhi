@@ -92,21 +92,6 @@ Statistics           ███████████████░░░░�
 
 ---
 
-### 🚗 Road Accident Analysis & Safety Insights
-
-**Tools:** `Excel` `SQL` `Power BI`
-
-📌 Analyzing **300K+ road accident records** to identify:
-
-* 🚨 Accident & casualty trends
-* 🌧️ Weather and road-condition impact
-* 🛣️ Road-condition patterns
-* 📍 Location-based accident trends
-* 📊 High-risk areas
-* 💡 Data-driven safety insights
-
----
-
 ### 🤖 Customer Churn Prediction System
 
 **Tools:** `Python` `Pandas` `Scikit-Learn` `Streamlit`
